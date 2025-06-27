@@ -62,6 +62,8 @@ The model was evaluated using:
 It demonstrated acceptable performance for all target parameters, with potential for real-world application and further enhancement via hyperparameter tuning and ensemble learning.
 
 ---
+## Model Link
+* https://drive.google.com/file/d/1ig_ki5IDqdHXk8k6hMTz5hjxbuKyc8h7/view?usp=drivesdk
 
 ## 🎓 Internship Details
 
